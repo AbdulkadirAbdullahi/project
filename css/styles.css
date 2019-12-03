@@ -1,0 +1,82 @@
+.row-header{
+    margin: 0px auto;
+
+   
+}
+
+.row-content{
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+
+.footer{
+    background-color:lightcoral;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron{
+    padding: 70px 0px 70px 0px;
+    margin: 0px auto;
+    height: 500px;
+    
+
+
+
+
+}
+
+.address{
+    font: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+.navbar-dark{
+    background-color:lightcoral;
+}
+
+.tab-content{
+border-left: 1px solid #ddd;
+border-right: 1px solid #ddd;
+border-bottom: 1px solid #ddd;
+padding: 10px;
+
+}
+.carousel{
+    background:lightcoral
+}
+.carousel-item{
+    height: 600px;
+
+}
+.carousel-item img{
+    position: absolute;
+   margin: auto;
+    min-height: 600px;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+
+ #header{
+            background-image: url("head1.jpg");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+            color: lightcoral;
+        }
+        #about{
+          background-color: lightpink;
+          color: lightcoral;
+         margin-top: 50px;
+         margin-bottom: 50px;
+        }
+        .card-header{
+          background-color: lightcoral;  
+        }
+
+
